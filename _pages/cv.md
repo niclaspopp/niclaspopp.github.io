@@ -1,6 +1,6 @@
 ---
 <!-- layout: archive -->
-title: "Sandesh Bhat"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -23,7 +23,7 @@ Education
 * Junior studies in Mathematics at the Julius Maximilians University Würzburg, 2014-2017
 * Abitur at the Georg-Wilhelm-Steller Gymnasium Bad Windsheim. final grade 1.0, June 2017
 
-Work experience
+Research and Working Experience
 ======
 * Research Fellow (May 2021 - present)
   * Motion Analysis Laboratory, Department of Orthopedic Surgery, Mayo Clinic, Rochester, MN.
@@ -41,17 +41,9 @@ Work experience
   
 Skills
 ======
-* Computer Aided Design/Drawing (SolidWorks, Fusion 360, ProE)
-* Matlab Programming (Matlab and Simulink)
-* Python Programming
-* Limited C++ Programming Skills
-* Operation of various Manipulator Arms (Baxter Dual-Arm Robot, UR5, Dobot Magician and self-built arm)
-* Limited ROS Capability
-* Limited Embedded Systems Capability 
-* Bio-mechanical Analyses
-* OpenSim Simulation (Human Bio-mechanical Modelling)
-* Motion Capture and Data Analysis (Vicon and Optitrack systems)
-* Fabrication of Various Devices
+* Student research assistant in the lab of Antonio Scialdone at the Institute of Computational Biology at the Helmholtz Research Centre for Environment and Health in Munich, since 2020
+* Summer internship in the lab of Ramonn Grima Mathematical Biology at the University of Edinburgh, 2021
+* Working student in Data Science at Robert Bosch GmbH, from 2017 until 2019
 
 Publications
 ======
