@@ -48,4 +48,8 @@ Awards and Scholarships
 
 Programming Skills
 ======
-* Julia, Python, Matlab, R, MPI, C, Java Scrip
+* Julia, Python, Matlab, R, MPI, C, Java Script
+
+Language Skills
+======
+* German (Native), English(C2), Swedish(B1/B2), French(B1+), Spanish(A1), Chinese(A1)
