@@ -8,11 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hello and welcome to my website. My name is Sandesh Bhat and I am a Research Fellow at the [Motion Analysis Laboratory](https://www.mayo.edu/research/labs/motion-analysis/overview), Mayo Clinic. My work revolves around orthotic device development for upper extremity rehabilitation. 
+Welcome! I am an international Master student in Mathematics and Physics pursuing a Double Degree between the Technical University of Munich and KTH Royal Institute of Technology. Currently I am also a student research assistent working on the analysis of single-cell RNA sequencing data using tools from modern mathematics and deep learning in the lab of Antonio Scialdone at the Helmhotz Centre for Environment and Health in Munich. Prior to my Master studies, I completed my Bachelor degree with a major in Mathematics and a minor in Physics at the Technical University of Munich including an exchange term at the National University of Singapore. In addition to my academic background, I also possess working experience in industry which I could gather during a period of 2 years as a working student at Robert Bosch GmbH with a field of activity in Data Science for logistics.
 
-I received my Ph.D. in [Systems Engineering](https://poly.engineering.asu.edu/engineering/phd-systems-engineering/) from the [Ira A. Fulton School of Engineering](https://engineering.asu.edu/), Arizona State University. There, I researched in the field of Robotics and Dynamics for Rehabilitation Application. I was advised by [Dr. Sangram Redkar](https://isearch.asu.edu/profile/1114748) and [Dr. Thomas Sugar](https://isearch.asu.edu/profile/227786) in the [Robotics and Dynamical Systems Group](https://labs.engineering.asu.edu/rads/). I received my Master of Science (MS) degree in [Mechanical Engineering](https://semte.engineering.asu.edu/mechanical-graduate/) from the [Ira A. Fulton School of Engineering](https://engineering.asu.edu/), Arizona State University and my Bachelor of Engineering (BE) Degree in Mechanical Engineering from the [University of Mumbai](http://mu.ac.in/).
-
-<!-- <img align="middle" src="https://DrSGBhat.github.io/files/sandesh.jpg?raw=true" alt="Photo" style="width: 700px; border-radius: 10px; padding: 8px 8px 8px 8px"/>  -->
-
-
-
+Since I expect to complete my studies in fall 2023 I am actively looking for a PhD position with a foucs on learning systems. 
