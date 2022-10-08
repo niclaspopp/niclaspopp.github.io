@@ -25,35 +25,16 @@ Education
 
 Research and Working Experience
 ======
-* Research Fellow (May 2021 - present)
-  * Motion Analysis Laboratory, Department of Orthopedic Surgery, Mayo Clinic, Rochester, MN.
-  * Supervisor: Dr. Kenton Kaufman
-
-* Graduate Teaching Assistant (Fall 2018, Spring 2019, Fall 2019)
-  * Arizona State University, Mesa, AZ
-  * Duties included: Teaching EGR 219: Computational Modelling of Engineering Systems (Fall 2018, Spring 2019); TA EGR 217 and EGR 343: Mechanics and Strength of Materials (Fall 2019)
-  * Supervisor: Dr. Scott Danielson; Dr. Changho Nam; Dr. Sangram Redkar
-
-* Graduate Research Assistant (Fall 2017, Spring 2018, Fall 2018)
-  * Arizona State University, Mesa, AZ
-  * Duties included: Designing Prostheses and Exosuits; Simulating Human Walking Gait using various Robotic Manipulators; Simulating the Dynamics of Human Gait
-  * Supervisor: Dr. Sangram Redkar; Dr. Thomas Sugar
-  
-Skills
-======
 * Student research assistant in the lab of Antonio Scialdone at the Institute of Computational Biology at the Helmholtz Research Centre for Environment and Health in Munich, since 2020
 * Summer internship in the lab of Ramonn Grima Mathematical Biology at the University of Edinburgh, 2021
 * Working student in Data Science at Robert Bosch GmbH, from 2017 until 2019
 
-Publications
+
+Teaching
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
- 
-Service and leadership
-======
-* Director of Outreach, Polytechnic Campus (Graduate and Professional Student Association) (August 2020 - May 2021)
-* Engineering Assembly member (Graduate and Professional Student Association) (August 2019 - May 2020)
-* Student Body President (Mechanical Engineering Students Association) (August 2015 - May 2016)
-* Treasurer (Mechanical Engineering Students Association) (August 2014 - May 2015)
+* KTH Royal Institute of Technology, Stockholm}
+  * Teaching Assistant (Övningsassistent) for Numerical Analysis for Industrial Economy, 2021
+  * Teaching Assistant (Övningsassistent) for Numerical Analysis for Computer Science, 2022
+* Technical University of Munich
+  * Teaching Assistant (Tutor) for Linear Algebra for Computer Science, 2020 and 2021
+  * Teaching Assistant (Tutor) for Analysis for Computer Science, 202
