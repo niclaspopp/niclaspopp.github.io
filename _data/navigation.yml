@@ -2,27 +2,12 @@
 main:
   - title: "CV"
     url: /cv/
-
-  - title: "Publications"
+    
+  - title: "Publications and Projects"
     url: /publications/
 
-  # - title: "Awards & Honors"
-  #   url: /awards/
+  - title: "Teaching"
+    url: /teaching/
 
-  #- title: "Talks"
-  #  url: /talks/    
-
-  #- title: "Photography"
-  #  url: /Photography/    
-    
-  - title: "My Travel"
-    url: /mytravel/
-        
-  - title: "Student Advocacy"
-    url: /stuadv/
-    
-  - title: "Contact"
-    url: /contact/  
-    
-  # - title: "Guide"
-    # url: /markdown/
+  - title: "Software"
+    url: /software/
