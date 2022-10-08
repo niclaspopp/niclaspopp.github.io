@@ -16,9 +16,12 @@ Curriculum Vitae (long) [PDF](https://DrSGBhat.github.io/files/Bhat_CV.pdf)
 
 Education
 ======
-* Ph.D in Systems Engineering, Arizona State University, U.S.A., May 2021
-* M.S. in Mechanical and Aerospace Engineering, Arizona State University, U.S.A., December 2017
-* B.E. in Mechanical Engineering, Mumbai University, India, May 2016
+* M.Sc. Mathematics Technical, University of Munich \newline Double Degree, current average grade 1.0, expected graduation fall 2023
+* M.Sc.Eng. Engineering Physics, KTH Royal Insitute of Technology, Stockholm, Double Degree, GPA 5.0/5.0, expected graduation fall 2023
+* B.Sc. Mathematics with minor in Physics, Technical University of  Munich, passed with distinction (1.5), February 2021
+* Exchange semester at the National University of Singapore, 2019
+* Junior studies in Mathematics at the Julius Maximilians University Würzburg, 2014-2017
+* Abitur at the Georg-Wilhelm-Steller Gymnasium Bad Windsheim. final grade 1.0, June 2017
 
 Work experience
 ======
