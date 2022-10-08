@@ -12,14 +12,14 @@
 #minimal_mistakes_skin : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 locale                   : "en-US"
-title                    : "Sandesh Bhat"
+title                    : "Niclas Popp"
 title_separator          : "-"
-name                     : &name "Sandesh Bhat"
-description              : &description "Research Fellow, Mayo Clinic"
-url                      : https://DrSGBhat.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Niclas Popp"
+description              : &description "International Master Student in Mathematics and Physics"
+url                      : https://niclaspopp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "DrSGBhat/DrSGBhat.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+repository               : "niclaspopp/niclaspopp.github.io"
+teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 comments:
@@ -82,41 +82,35 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sandesh Bhat"
-  avatar           : "sandesh.jpg"
-  bio              : "Research Fellow,<br>
-                      Motion Analysis Laboratory,<br>
-                      Division of Orthopedic Surgery,<br>
-                      Mayo Clinic."
-  location         : "Rochester, MN, USA"
-  employer         : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=Dx9aVjgAAAAJ"
-  email            : "mrsandeshbhat@gmail.com"
-  uri              : 
+  name             : "Niclas Popp"
+  avatar           : "portrait.JPG"
+  bio              : "International Master Student in Mathematics and Physics"
+  location         :
+  employer         :
+  pubmed           :
+  orcid            : 
+  googlescholar    : 
+  email            : "niclas.popp@tum.de"
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : 
+  facebook         :
   foursquare       :
-  github           : "mrsandeshbhat"
+  github           : "niclaspopp"
+  gitlab           : 
   google_plus      :
   keybase          :
-  instagram        : "this_shutter"
+  instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "mrsandeshbhat"
-  orcid            : "https://orcid.org/0000-0002-8989-0235"
+  linkedin         : "niclas-popp-16936916b/?originalSubdomain=de"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : #"https://stackoverflow.com/users/10912314/jayrobwilliams"
   steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        : 
 
 
 # Reading Files
