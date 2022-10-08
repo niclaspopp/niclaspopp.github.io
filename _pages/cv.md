@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Resume (short) [PDF](https://DrSGBhat.github.io/files/Bhat_Resume.pdf)
+Resume (short) [PDF]()
 
-Curriculum Vitae (long) [PDF](https://DrSGBhat.github.io/files/Bhat_CV.pdf)
+Curriculum Vitae (long) [PDF]()
 
 
 Education
@@ -37,4 +37,15 @@ Teaching
   * Teaching Assistant (Övningsassistent) for Numerical Analysis for Computer Science, 2022
 * Technical University of Munich
   * Teaching Assistant (Tutor) for Linear Algebra for Computer Science, 2020 and 2021
-  * Teaching Assistant (Tutor) for Analysis for Computer Science, 202
+  * Teaching Assistant (Tutor) for Analysis for Computer Science, 2020
+
+Awards and Scholarships
+======
+* DAAD RISE scholarship of the German Academic Exchange Service, 2021
+* Scholarship of the German National Academic Scholarship Foundation \newline (Studienstiftung des Deutschen Volkes), since 2017
+* Winner of a Hans Riegel Prize in Geophysics, 2017
+* 3rd Place at the Youth researches (Jugend forscht) State Competition Bavaria, 2017
+
+Programming Skills
+======
+* Julia, Python, Matlab, R, MPI, C, Java Scrip
