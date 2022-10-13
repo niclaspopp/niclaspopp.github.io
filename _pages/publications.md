@@ -16,3 +16,9 @@ Together with Marco Stock and Antonio Scialdone we have developed a novel algori
 Interaction Preserving Discretization Methods and Applications in Single-Cell RNA Sequencing Data Analysis
 ======
 The projectfor my Bachelor thesis dealt with interaction preserving discretization schemes that were implemented and published in the form of a [Julia package](https://github.com/niclaspopp/MultivariateDiscretization.jl) as well as their application to biological single-cell omics data. The project was supervised by Prof. Dr. Dr. Fabian Theis, Dr. Antonio Scialdone and Dr. Jonathan Fiorentino.
+
+
+Stochastic gene expression in mammalian cells
+======
+In 2021 I was granted the DAAD RISE scholarship to carry out a summer internship in the lab of Ramon Grima at the University of Edinburgh and was introduced into the usage of stochastic differential equations for the modelling of gene expression in mammalian cells. The main focus was on computational aspects of model reduction.
+
