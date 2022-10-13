@@ -20,5 +20,17 @@ The projectfor my Bachelor thesis dealt with interaction preserving discretizati
 
 Stochastic gene expression in mammalian cells
 ======
-In 2021 I was granted the DAAD RISE scholarship to carry out a summer internship in the lab of Ramon Grima at the University of Edinburgh and was introduced into the usage of stochastic differential equations for the modelling of gene expression in mammalian cells. The main focus was on computational aspects of model reduction.
+In 2021 I was granted the DAAD RISE scholarship to carry out a summer internship in the lab of [Ramon Grima](https://grimagroup.bio.ed.ac.uk/home) at the University of Edinburgh and was introduced into the usage of stochastic differential equations for the modelling of gene expression in mammalian cells. The main focus was on computational aspects of model reduction.
 
+A Parallel Implementation of the Spectral Clustering Algorithm
+======
+As part of my coursework at KTH, I implemented a parellel version of the Spectral Clustering Algorithm using MPI in C. The building blocks of the algorithm are the QR method, parallel odd-even sort and k-means. The code can be found in [this](https://github.com/niclaspopp/SpectralClusteringMPI) repository and the project report is uploaded here.
+The project was supervised by [Niclas Jansson](https://www.kth.se/profile/njansson).
+
+Exploring Neural Ordinary Differential Equations
+======
+For the project course in Deep learning for Data Science and KTH, Jannik Wagner, Katrina Liang and I were experimenting with Neural ODEs. First, we modelled the evolution of daily new COVID-19 cases in Sweden as an example for Time Series Analysis. Furthermore, we used generative models based on continuous normailizing flows in conjunction with simple densities as well as the MNIST dataset to sample new images. The implementation was done in Julia and Python based on Flux and Pytorch. The repository can be found [here](https://github.com/jannikwagner/DD2424) and the report is here.
+
+Facial Expression Recognition Using Topological Data Analysis
+======
+As 
