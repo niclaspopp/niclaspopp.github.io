@@ -36,4 +36,4 @@ For the project course in Deep learning for Data Science and KTH, Jannik Wagner,
 
 Facial Expression Recognition Using Topological Data Analysis
 ======
-As 
+During of the final project for the course "Topological Data Analyis" given by [Wojciech Chachólski](https://www.kth.se/profile/wojtek/). Yuqi Shao, Lea Keller, Maxime Scali and I investigated whether topological data analysis can be used to achieve progress in the difficult field of facial expression recognition. Therefore, we experimented with the FER2013 dataset and used a computational framework based on higher homologies in Python. The results can be found in [this](https://github.com/yuqish/TDA_project) repository together with the report.
