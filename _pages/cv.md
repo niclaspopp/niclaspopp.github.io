@@ -29,16 +29,6 @@ Research and Working Experience
 * Summer internship in the lab of [Ramon Grima](https://www.ed.ac.uk/profile/ramon-grima) at the University of Edinburgh, 2021
 * Working student in Data Science at Robert Bosch GmbH, from 2017 until 2019
 
-
-Teaching
-======
-* KTH Royal Institute of Technology, Stockholm}
-  * Teaching Assistant (Övningsassistent) for Numerical Analysis for Industrial Economy, 2021, professor: [Mattias Sandberg](https://www.kth.se/profile/msandb?l=en)
-  * Teaching Assistant (Övningsassistent) for Numerical Analysis for Computer Science, 2022, teacher: [Lena Leitenmayer](https://www.kth.se/profile/lenalei)
-* Technical University of Munich, 
-  * Teaching Assistant (Tutor) for Linear Algebra for Computer Science, 2020 and 2021, professor: [Ulrich Bauer](https://www.professoren.tum.de/bauer-ulrich)
-  * Teaching Assistant (Tutor) for Analysis for Computer Science, 2020, professor: [Noam Berger Steiger](https://www.math.cit.tum.de/probability/personen/berger/)
-
 Awards and Scholarships
 ======
 * DAAD RISE scholarship of the German Academic Exchange Service, 2021
