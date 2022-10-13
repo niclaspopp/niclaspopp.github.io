@@ -33,11 +33,11 @@ Research and Working Experience
 Teaching
 ======
 * KTH Royal Institute of Technology, Stockholm}
-  * Teaching Assistant (Övningsassistent) for Numerical Analysis for Industrial Economy, 2021
-  * Teaching Assistant (Övningsassistent) for Numerical Analysis for Computer Science, 2022
-* Technical University of Munich
-  * Teaching Assistant (Tutor) for Linear Algebra for Computer Science, 2020 and 2021
-  * Teaching Assistant (Tutor) for Analysis for Computer Science, 2020
+  * Teaching Assistant (Övningsassistent) for Numerical Analysis for Industrial Economy, 2021, professor: [Mattias Sandberg](https://www.kth.se/profile/msandb?l=en)
+  * Teaching Assistant (Övningsassistent) for Numerical Analysis for Computer Science, 2022, teacher: [Lena Leitenmayer](https://www.kth.se/profile/lenalei)
+* Technical University of Munich, 
+  * Teaching Assistant (Tutor) for Linear Algebra for Computer Science, 2020 and 2021, professor: [Ulrich Bauer](https://www.professoren.tum.de/bauer-ulrich)
+  * Teaching Assistant (Tutor) for Analysis for Computer Science, 2020, professor: [Noam Berger Steiger](https://www.math.cit.tum.de/probability/personen/berger/)
 
 Awards and Scholarships
 ======
