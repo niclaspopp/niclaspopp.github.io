@@ -1,63 +1,18 @@
 ---
-title: "Publications"
+title: "Projects and Publications"
 permalink: /publications/
 author_profile: true
 ---
-<br>
-For proper citations, refer [Google Scholar](https://scholar.google.com/citations?user=Dx9aVjgAAAAJ&hl=en)<br>
-<br>
-<br>
-<b>[Order reduction of nonlinear quasi-periodic systems subjected to external excitations](http://DrSGBhat.github.io/publications/IJNLMorder)</b> <br>
-<i><b>Sandesh G Bhat</b></i>Susheelkumar C Subramanian, Sangram Redkar.<br>
-<i>International Journal of Non-Linear Mechanics</i>.
-<br>
-<br>
-<b>[Dynamical Systems Theory and its Application to Human Gait Analysis](http://DrSGBhat.github.io/publications/PhDdiss)</b> <br> 
-<i><b>Sandesh G Bhat</b></i>.<br>
-<i>PhD Dissertation, Arizona State University</i>.
-<br>
-<br>
-<b>[Application of Floquet Theory to Human Gait Kinematics and Dynamics](http://DrSGBhat.github.io/publications/JMRanalysis)</b> <br> 
-<b><i>Sandesh G. Bhat</i></b>, Susheelkumar C Subramanian, Thomas G. Sugar, Sangram Redkar.<br>
-<i>Journal of Mechanisms and Robotics</i>.
-<br>
-<br>
-<b>[Reconstruction Of Ground Reaction Force Data Using Lyapunov Floquet Theory And Invariant Manifold Theory](http://DrSGBhat.github.io/publications/IDETCgrfrecon)</b> <br> 
-<b><i>Sandesh G. Bhat</i></b>, Thomas G. Sugar, Sangram Redkar.<br>
-<i>ASME 2020 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference</i>. <b>IDETC-CIE 2020</b>.
-<br>
-<br>
-<b>[Invariant Manifolds In Human Joint Angle Analysis During Walking Gait](http://DrSGBhat.github.io/publications/IDETCinvariant)</b> <br> 
-<b><i>Sandesh G. Bhat</i></b>, Thomas G. Sugar, Sangram Redkar.<br>
-<i>ASME 2020 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference</i>. <b>IDETC-CIE 2020</b>.
-<br>
-<br>
-<b>[Design and Analysis of an Auto-Parametrically Excited Platform for Active Vibration Control](http://DrSGBhat.github.io/publications/IDETCthao)</b> <br> 
-Thao Le, <i><b>Sandesh G Bhat</b></i>, Susheelkumar C Subramanian, Peter MB Waswa, Sangram Redkar.<br>
-<i>ASME 2019 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference</i>. <b>IDETC-CIE 2019</b>.
-<br>
-<br>
-<b>[Analysis of a periodic force applied to the trunk to assist walking gait](http://DrSGBhat.github.io/publications/WearRA)</b> <br> 
-<i><b>Sandesh G Bhat</b></i>, Susheelkumar Cherangara, Jason Olson, Sangram Redkar, Thomas G. Sugar.<br>
-<i>2019 Wearable Robotics Association Conference</i>. <b>WearRAcon 2019</b>.
-<br>
-<br>
-<b>[Volitional control of an active prosthetic ankle: a survey](http://DrSGBhat.github.io/publications/IRAJsurvey)</b> <br> 
-<i><b>Sandesh G Bhat</b></i>, Sangram Redkar.<br>
-<i>International Robotics &amp; Automation Journal</i>.
-<br>
-<br>
-<b>[Design and Development of an Unmanned Underwater Vehicle (UUV) in the Form of a Cuttlefish](http://DrSGBhat.github.io/publications/IMECEuuv)</b> <br> 
-Susheelkumar Cherangara Subramanian, Thao Le, Jason Olson, <i><b>Sandesh G Bhat</b></i>, Sangram Redkar.<br>
-<i>ASME 2018 International Mechanical Engineering Congress and Exposition</i>. <b>IMECE 2018</b>.
-<br>
-<br>
-<b>[Development of a Passive Prosthetic Ankle With Slope Adapting Capabilities](http://DrSGBhat.github.io/publications/IMECEankle)</b> <br> 
-<i><b>Sandesh G Bhat</b></i>, Sangram Redkar, Thomas G Sugar.<br>
-<i>ASME 2018 International Mechanical Engineering Congress and Exposition</i>. <b>IMECE 2018</b>.
-<br>
-<br>
-<b>[Design and Development of a Passive Prosthetic Ankle](http://DrSGBhat.github.io/publications/MStheses)</b> <br> 
-<i><b>Sandesh G Bhat</b></i>.<br>
-<i>Master of Science Theses, Arizona State University</i>.
-<br>
+
+Structural benchmarking for gene regulatory network inference based on single-cell RNA sequencing data
+======
+
+In collaboration with Marco Stock, Jonathan Fiorentino and Antonio Scialdone we carried out a benchmarking study on algorithms for the inference of gene regulatory networks with respect to the preservance of topological graph properties as well as the definition and formation of hubs. As a first author I took care the theoretical foundations and carried out the experiments.
+
+Gene regulatory network in- ference from scRNA-seq data by incorporating prior knowledge with graph autoencoders
+======
+Together with Marco Stock and Antonio Scialdone we have developed a novel algorithm for the inference of gene regulatory networks from single-cell transcriptomic data which is based on graph autoencoders and has a focus computational efficiency. My part of the project was to present the theoretical background and assist the evaluation of the results as well as writing the manuscript.
+
+Interaction Preserving Discretization Methods and Applications in Single-Cell RNA Sequencing Data Analysis
+======
+The projectfor my Bachelor thesis dealt with interaction preserving discretization schemes that were implemented and published in the form of a [Julia package](https://github.com/niclaspopp/MultivariateDiscretization.jl) as well as their application to biological single-cell omics data. The project was supervised by Prof. Dr. Dr. Fabian Theis, Dr. Antonio Scialdone and Dr. Jonathan Fiorentino.
