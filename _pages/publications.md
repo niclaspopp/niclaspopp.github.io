@@ -7,12 +7,12 @@ author_profile: true
 <br>
 
 
-Structural benchmarking for gene regulatory network inference based on single-cell RNA sequencing data
+Structural Benchmarking for Gene Regulatory Network Inference based on Single-Cell RNA Sequencing Data
 ======
 
 In collaboration with Marco Stock, Jonathan Fiorentino and Antonio Scialdone we carried out a benchmarking study on algorithms for the inference of gene regulatory networks with respect to the preservance of topological graph properties as well as the definition and formation of hubs. As a first author I took care the theoretical foundations and carried out the experiments.
 
-Gene regulatory network in- ference from scRNA-seq data by incorporating prior knowledge with graph autoencoders
+Gene regulatory network inference from scRNA-seq data by incorporating prior knowledge with graph autoencoders
 ======
 Together with Marco Stock and Antonio Scialdone we have developed a novel algorithm for the inference of gene regulatory networks from single-cell transcriptomic data which is based on graph autoencoders and has a focus computational efficiency. My part of the project was to present the theoretical background and assist the evaluation of the results as well as writing the manuscript.
 
