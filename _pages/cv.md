@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Resume (short) [PDF]()
+Resume (short) [PDF](https://niclaspopp.github.io/files/current_cv_singlecolumn.pdf)
 
-Curriculum Vitae (long) [PDF]()
+Curriculum Vitae (long) [PDF](https://niclaspopp.github.io/files/current_cv_twocolumn.pdf)
 
 
 Education
