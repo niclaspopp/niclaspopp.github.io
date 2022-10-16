@@ -18,7 +18,7 @@ Together with Marco Stock and Antonio Scialdone we have developed a novel algori
 
 Interaction Preserving Discretization Methods and Applications in Single-Cell RNA Sequencing Data Analysis
 ======
-The project for my Bachelor thesis dealt with interaction preserving discretization schemes that were implemented and published in the form of a [Julia package](https://github.com/niclaspopp/MultivariateDiscretization.jl) as well as their application to biological single-cell omics data. The project was supervised by Prof. Dr. Dr. Fabian Theis, Dr. Antonio Scialdone and Dr. Jonathan Fiorentino.
+The project for my Bachelor thesis dealt with interaction preserving discretization schemes that were implemented and published in the form of a [Julia package](https://github.com/niclaspopp/MultivariateDiscretization.jl) as well as their application to biological single-cell omics data. The project was supervised by Prof. Dr. Dr. Fabian Theis, Dr. Antonio Scialdone and Dr. Jonathan Fiorentino and the thesis can be found [here](https://niclaspopp.github.io/files/thesis_popp.pdf).
 
 
 Stochastic gene expression in mammalian cells
