@@ -17,7 +17,7 @@ Curriculum Vitae (long) [PDF](https://niclaspopp.github.io/files/current_cv_sing
 Education
 ======
 * PhD Computer Science, Eberhart Karls University Tübingen, supervised by Matthias Hein
-* M.Sc. Mathematics Technical, University of Munich, Double Degree, passed with high distinction, 2023
+* M.Sc. Mathematics, Technical University of Munich, Double Degree, passed with high distinction, 2023
 * M.Sc.Eng. Engineering Physics, KTH Royal Insitute of Technology, Stockholm, Double Degree, GPA 5.0/5.0, 2023
 * B.Sc. Mathematics with minor in Physics, Technical University of  Munich, passed with distinction (1.5), February 2021
 * Exchange semester at the National University of Singapore, 2019
