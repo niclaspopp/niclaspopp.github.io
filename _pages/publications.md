@@ -9,12 +9,14 @@ author_profile: true
 
 Publications
 ======
+**Feature Distillation Improves Zero-Shot Transfer from Synthetic Images**<br><br>
+Vision-language foundation models such as CLIP have showcased impressive zero-shot capabilities. However, their applicability in resource-constrained environments is limited due to their size and the resulting latency. Knowledge distillation allows to mitigate these challenges by distilling small image encoders that can replace the large CLIP image encoder. In a zero-shot setting, where only the class names are known, no real domain images can be used for this process. Instead, we investigate the use of synthetic images for this purpose. Unlike existing works that focus on improving the quality of synthetic images to bridge the performance gap compared to training on natural images, we find the choice of loss to be a crucial factor. Specifically, minimizing only the distance between the student and teacher image features, without incorporating image captions in the loss function, increases the robustness to spurious features and data corruptions. As a result, this feature distillation approach greatly improves the transfer performance from synthetic to real images. Leveraging these insights, we are able to train domain-specific students that achieve zero-shot performance comparable to a ViT-B/32 teacher on six fine-grained classification datasets while using up to 92% fewer parameters. Published in Transactions on Machine Learning Research (TMLR), November 2024, [link](https://openreview.net/forum?id=SP8DLl6jgb) [video](https://www.youtube.com/watch?v=KbdacNWGiAM) [code](https://github.com/boschresearch/ZeroShotDistillation).
 
 **Structural Benchmarking for Gene Regulatory Network Inference based on Single-Cell RNA Sequencing Data**<br><br>
 In collaboration with Marco Stock, Jonathan Fiorentino and Antonio Scialdone we carried out a benchmarking study on algorithms for the inference of gene regulatory networks with respect to the preservance of topological graph properties as well as the definition and formation of hubs. As a joint first author I took care the theoretical foundations and carried out the experiments. Published in Bioinformatics, Volume 40, Issue 5, May 2024, [link](https://academic.oup.com/bioinformatics/article/40/5/btae267/7646844).
 
 
-Additional Projects
+Study Projects
 ======
 
 **Randomized Diagonal Estimation**<br><br>
