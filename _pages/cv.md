@@ -26,7 +26,7 @@ Education
 
 Research and Working Experience
 ======
-* Industrial PhD student at the [Bosch Center for Artificial Intelligence](https://www.bosch-ai.com), since 2023
+* Industrial PhD student at the [Bosch Center for Artificial Intelligence](https://www.bosch-ai.com),supervised by Lukas Schott and previously Jan Hendrik Metzen, since 2023
 * Student research assistant in the lab of [Antonio Scialdone](https://www.helmholtz-munich.de/en/ies/research-groups/scialdone-lab) at the Institute of Computational Biology at the Helmholtz Research Centre for Environment and Health in Munich, from 2020 until 2023
 * Summer internship in the lab of [Ramon Grima](https://www.ed.ac.uk/profile/ramon-grima) at the University of Edinburgh, 2021
 * Working student in Data Science at Robert Bosch GmbH, from 2017 until 2019
